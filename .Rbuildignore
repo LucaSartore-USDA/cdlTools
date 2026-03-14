@@ -1,6 +1,13 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 test
-.travis.yml
-README.md
+^\.travis\.yml
+README\.md
 new
+^\.github\/.*$
+^\.git\/.*$
+^\.vscode$
+^\.gitignore$
+^\.Rbuildignore$
+^\.Rhistory$
+^\.gitattributes$
